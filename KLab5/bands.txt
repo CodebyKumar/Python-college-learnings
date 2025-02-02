@@ -1,0 +1,11 @@
+It
+is
+a 
+sample 
+text 
+to 
+make 
+lab6 
+program 
+to 
+run.
